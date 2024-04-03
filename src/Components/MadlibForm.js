@@ -4,7 +4,9 @@ import React, {useState} from "react";
 const MadlibForm = () => {
     return (
         <div>
-            {/* Form goes here*/}
+            <p>MadlibForm Goes Here</p>
         </div>
     )
 }
+
+export default MadlibForm;
